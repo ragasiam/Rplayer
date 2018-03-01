@@ -1,15 +1,10 @@
 var sources = [
-  "http://stream-dc1.radioparadise.com/aac-320", // paradise
-  "http://mp3.radiogong963.c.nmdn.net/fs_radiogongchannel5/livestream.mp3", // party gong
-  "http://ice2.somafm.com/folkfwd-128-mp3", // folk forward
-  "http://46.28.49.164:7508/stream?1489669793611" // punk fm
+  "http://109.74.196.48:8251/live", // ragasiam live
+  "http://109.74.196.48:8251/stream", // ragasiam stream
 ];
 
 var labels = [
-  [ "Radio Paradise", "https://www.radioparadise.com" ],
-  [ "Party Gong", "https://www.radiogong.de/"],
-  [ "SomaFM Folk Forward", "http://somafm.com/folkfwd/"],
-  [ "Punk FM", " http://www.punkfm.co.uk/"]
+  [ "Ragasiam Radio", "https://www.ragasiam.com/p/fm.html" ],
 ];
 
 var playingIndex = 0; // current radio
