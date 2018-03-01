@@ -4,7 +4,7 @@ var sources = [
 ];
 
 var labels = [
-  [ "Ragasiam Radio", "https://www.ragasiam.com/p/fm.html" ],
+  [ "ON AIR", "https://www.ragasiam.com/p/fm.html" ],
 ];
 
 var playingIndex = 0; // current radio
