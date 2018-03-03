@@ -4,8 +4,8 @@ var sources = [
 ];
 
 var labels = [
-  [ "ON AIR 64 Kbps", "http://109.74.196.48:8251/live" ],
-  [ "ON AIR 128 Kbps", "http://109.74.196.48:8251/ragasiam" ],
+  [ "On Air 64 Kbps", "http://109.74.196.48:8251/live" ],
+  [ "On Air 128 Kbps", "http://109.74.196.48:8251/ragasiam" ],
 ];
 
 var playingIndex = 0; // current radio
