@@ -1,6 +1,6 @@
 var sources = [
-  "http://109.74.196.48:8251/live", // ragasiam live
-  "http://109.74.196.48:8251/ragasiam", // ragasiam stream
+  "http://109.74.196.48:8251/live", // ragasiam 64 kbps
+  "http://109.74.196.48:8251/ragasiam", // ragasiam 128 kbps
 ];
 
 var labels = [
