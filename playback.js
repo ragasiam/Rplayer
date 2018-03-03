@@ -1,11 +1,11 @@
 var sources = [
-  "http://109.74.196.48:8251/live", // ragasiam 64 kbps
+  "http://109.74.196.48:8251/stream", // ragasiam 64 kbps
   "http://109.74.196.48:8251/ragasiam", // ragasiam 128 kbps
 ];
 
 var labels = [
-  [ "On Air 64 Kbps", "http://109.74.196.48:8251/live" ],
-  [ "On Air 128 Kbps", "http://109.74.196.48:8251/ragasiam" ],
+  [ "ON AIR 64 Kbps", "http://109.74.196.48:8251/live" ],
+  [ "ON AIR 128 Kbps", "http://109.74.196.48:8251/ragasiam" ],
 ];
 
 var playingIndex = 0; // current radio
