@@ -441,7 +441,8 @@
 		}
 
 		#header p {
-			font-size: 1.25em;
+			font-size: 2.25em;
+			font-weight: 200;
 			margin: 0.75em 0 0.25em 0;
 			opacity: 0.75;
 		}
@@ -567,7 +568,7 @@
 				}
 
 				#header nav a:hover {
-					font-size: 1.1em;
+					font-size: 2.1em;
 				}
 
 					#header nav a:hover:before {
@@ -576,7 +577,7 @@
 					}
 
 				#header nav a:active {
-					font-size: 0.95em;
+					font-size: 1.95em;
 					background: none;
 				}
 
