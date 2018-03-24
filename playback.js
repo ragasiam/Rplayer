@@ -9,7 +9,7 @@ var labels = [
 ];
 
 var playingIndex = 0; // current radio
-var playing = true; // stream status
+var playing = false; // stream status
 var music = null;
 
 setTimeout(function(){
@@ -27,7 +27,7 @@ function loadStream(index){
   setLabel(index);
   pauseIcon();
   playingIndex = index;
-  playing = true;
+  playing = false;
 }
 
 function destroyStream(){
