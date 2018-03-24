@@ -34,7 +34,7 @@ function destroyStream(){
   music.pause();
   music.src = "";
   playIcon();
-  playing = true;
+  playing = false;
 }
 
 function changePlayback(){
