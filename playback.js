@@ -27,7 +27,7 @@ function loadStream(index){
   setLabel(index);
   pauseIcon();
   playingIndex = index;
-  playing = false;
+  playing = true;
 }
 
 function destroyStream(){
