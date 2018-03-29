@@ -25,13 +25,15 @@
 							<ul>
 								<li><a id="playbackButton" href="#" class="icon fa-play" onclick="changePlayback()"><span class="label">Music</span></a></li>
 							</ul>
-						</nav>					
+						</nav>
+						<br/><span class="cc_streaminfo" data-type="song" data-username="ragasiamfm">Loading ...</span>
 						<div id="label">
 
 						</div>
 					</header>
 			</div>
 		</div>
+		<script language="javascript" type="text/javascript" src="https://control.internet-radio.com:2199/system/streaminfo.js"></script>
 		<script>
 			window.onload = function() { document.body.className = ''; }
 			window.ontouchmove = function() { return false; }
