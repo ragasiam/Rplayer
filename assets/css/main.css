@@ -173,7 +173,7 @@
 
 	#bg {
 	
-		background:  url("images/bg.gif") no-repeat center center fixed;
+		background:  url("https://4.bp.blogspot.com/-POzAA4QNg48/WtOvb60N05I/AAAAAAAAATU/kkLX5-jmvKo3f3CbrJXaD--PGpCKVyBewCLcBGAs/s1600/bg.gif") no-repeat center center fixed;
 		-webkit-background-size: cover;
 	    -moz-background-size: cover;
         -o-background-size: cover;
@@ -434,8 +434,8 @@
 	}
 
 		#header h1 {
-			font-size: 3.35em;
-			font-weight: 800;
+			font-size: 4.35em;
+			font-weight: 900;
 			letter-spacing: -0.035em;
 			line-height: 1em;
 		}
