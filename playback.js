@@ -4,7 +4,7 @@ var sources = [
 ];
 
 var labels = [
-  [ "Live 64 Kbps", "http://109.74.196.48:8251/stream" ],
+  [ "Live 64 Kbps", "http://stream.ragasiam.com" ],
   [ "Live 128 Kbps", "http://109.74.196.48:8251/ragasiam" ],
 ];
 
