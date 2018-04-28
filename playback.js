@@ -10,7 +10,7 @@ var labels = [
   [ "Now Play SD 32 Kbps", "http://play.ragasiam.com" ],
 ];
 
-var playingIndex = 0; // current radio
+var playingIndex = 1; // current radio
 var playing = true; // stream status
 var music = null;
 
