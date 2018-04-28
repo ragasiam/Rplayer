@@ -1,12 +1,12 @@
 var sources = [
+  "http://109.74.196.48:8251/play", // ragasiam 32 kbps
   "http://109.74.196.48:8251/stream", // ragasiam 64 kbps
-  "http://109.74.196.48:8251/play", // ragasiam 62 kbps
   "http://109.74.196.48:8251/ragasiam", // ragasiam 128 kbps
 ];
 
 var labels = [
-  [ "Now Play HD 64 Kbps", "http://stream.ragasiam.com" ],
   [ "Now Play SD 32 Kbps", "http://play.ragasiam.com" ],
+  [ "Now Play HD 64 Kbps", "http://stream.ragasiam.com" ],
   [ "Now Play UHD 128 Kbps", "http://109.74.196.48:8251/ragasiam" ],
 ];
 
